@@ -1,6 +1,7 @@
 # Loading Screen
 **turtle.py-ს** დახმარებით აწყობილი **loading screen**-ის ანიმაცია.
 
+თუ კოდის კოდის შეცვლა არ გინდათ უბრალოდ [გადმოწერეთ .exe ფაილი](https://sauronn.netlify.app)
 
 ## მოდულები და python
 `1-` დააყენეთ python: [გადმოწერა](https://www.python.org/downloads/)
